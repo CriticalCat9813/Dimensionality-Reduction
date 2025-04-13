@@ -1,24 +1,30 @@
 # Dimensionality-Reduction
 
-# Dimensionality Reduction: Research Paper Implementations
+## Authors
+- Aarav Desai
+- Abhinav Goyal
+- Seetha Abhinav
+- Piyush Kumar
+  
+# Dimensionality Reduction: Implementations of t-SNE, Random Projection, and C-GMVAE
 
-This repository contains Python implementations of three influential dimensionality reduction techniques, each based on a foundational research paper. These implementations aim to reproduce key results, visualize outcomes, and provide an educational reference for those studying or applying dimensionality reduction.
+This repository presents implementations and analyses of three prominent dimensionality reduction techniques, each grounded in foundational research papers. The goal is to provide clear, practical examples that facilitate understanding and application of these methods in various data science and machine learning contexts.​
 
-## 📚 Implemented Papers
+## Implemented Techniques
 
-### 1. t-SNE (t-Distributed Stochastic Neighbor Embedding)
-**Paper**: *Visualizing Data using t-SNE*  
-**Authors**: Laurens van der Maaten, Geoffrey Hinton  
-**Link**: [JMLR, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  
-**Summary**: A nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data in 2 or 3 dimensions for visualization. Emphasizes local structure while maintaining global clusters through a heavy-tailed Student-t distribution in the embedding space.
 
----
-
-### 2. Random Projection for Image and Text Data
+### 1. Random Projection
 **Paper**: *Random Projection in Dimensionality Reduction: Applications to Image and Text Data*  
 **Authors**: Ella Bingham, Heikki Mannila  
 **Link**: [KDD 2001](https://dl.acm.org/doi/10.1145/502512.502546)  
 **Summary**: Demonstrates the effectiveness of random projections in reducing dimensionality while preserving pairwise distances, relying on the Johnson–Lindenstrauss lemma. Lightweight and computationally efficient.
+
+---
+### 2. t-SNE (t-Distributed Stochastic Neighbor Embedding)
+**Paper**: *Visualizing Data using t-SNE*  
+**Authors**: Laurens van der Maaten, Geoffrey Hinton  
+**Link**: [JMLR, 2008](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)  
+**Summary**: A nonlinear dimensionality reduction technique well-suited for embedding high-dimensional data in 2 or 3 dimensions for visualization. Emphasizes local structure while maintaining global clusters through a heavy-tailed Student-t distribution in the embedding space.
 
 ---
 
@@ -37,3 +43,9 @@ This repository contains Python implementations of three influential dimensional
 - Matplotlib / Seaborn for visualizations
 
 ## 📂 Directory Structure
+
+
+## Acknowledgements
+We extend our sincere gratitude to
+- Pranav K Nayak (Teaching Assistant, UMC 203) for his support throughout the project
+- Professor Chiranjib Bhattacharya and Professor N.Y.K. Shishir for providing the opportunity to explore this topic through a graded term paper in their course
