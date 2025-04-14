@@ -36,7 +36,6 @@ This repository presents implementations and analyses of three prominent dimensi
 
 Code based on: [JunwenBai/C-GMVAE](https://github.com/JunwenBai/C-GMVAE)  
 Original Authors: Junwen Bai, Shufeng Kong, Carla Gomes
-
 The code in `AI_Paper3/` is adapted for multi-label experiments on MIRFLICKR and NUS-WIDE datasets.
 ---
 
