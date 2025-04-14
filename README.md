@@ -40,7 +40,7 @@ The code in `AI_Paper3/` is adapted for multi-label experiments on MIRFLICKR.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3.10+
 - NumPy, SciPy, Scikit-learn
 - PyTorch / TensorFlow (for VAE-based models)
