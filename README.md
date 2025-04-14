@@ -42,9 +42,6 @@ This repository presents implementations and analyses of three prominent dimensi
 - PyTorch / TensorFlow (for VAE-based models)
 - Matplotlib / Seaborn for visualizations
 
-## 📂 Directory Structure
-
-
 ## Acknowledgements
 We extend our sincere gratitude to
 - Pranav K Nayak (Teaching Assistant, UMC 203) for his support throughout the project
