@@ -33,9 +33,8 @@ This repository presents implementations and analyses of three prominent dimensi
 **Authors**: Junwen Bai, Shufeng Kong, Carla Gomes  
 **Link**: [ICML 2022](https://arxiv.org/abs/2112.00976)  
 **Summary**: A probabilistic model for multi-label classification using a VAE with a multimodal latent space and contrastive loss to learn label and feature embeddings. Eliminates the need for complex modules like GNNs while achieving high performance with limited data.
-
-Code based on: [JunwenBai/C-GMVAE](https://github.com/JunwenBai/C-GMVAE)  
-Original Authors: Junwen Bai, Shufeng Kong, Carla Gomes
+**Code based on**: [JunwenBai/C-GMVAE](https://github.com/JunwenBai/C-GMVAE)  
+**Original Authors**: Junwen Bai, Shufeng Kong, Carla Gomes
 The code in `AI_Paper3/` is adapted for multi-label experiments on MIRFLICKR.
 ---
 
