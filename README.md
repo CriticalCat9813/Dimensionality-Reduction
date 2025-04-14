@@ -1,10 +1,10 @@
 # Dimensionality-Reduction
 
 ## Authors
-- Aarav Desai
-- Abhinav Goyal
-- Seetha Abhinav
-- Piyush Kumar
+- [Aarav Desai](https://github.com/CriticalCat9813)
+- [Abhinav Goyal](https://github.com/Abhinavg00)
+- [Seetha Abhinav](https://github.com/Seetha46)
+- [Piyush Kumar](https://github.com/Spiyush1806)
   
 ## Dimensionality Reduction: Implementations of t-SNE, Random Projection, and C-GMVAE
 
